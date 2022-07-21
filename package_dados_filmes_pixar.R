@@ -23,3 +23,9 @@ library(forcats)
 
 # Identificar bases disponíveis e carregar dados -------------------------------------------------------------------------------------------
 
+dplyr::glimpse(dados::pixar_filmes)
+dplyr::glimpse(dados::pixar_avalicao_publico)
+dplyr::glimpse(dados::pixar_bilheteria)
+dplyr::glimpse(dados::pixar_equipe)
+dplyr::glimpse(dados::pixar_generos)
+dplyr::glimpse(dados::pixar_oscars)
