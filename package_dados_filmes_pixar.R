@@ -11,7 +11,7 @@ library(magrittr)
 library(tidyr)
 library(forcats)
 
-# Pacote - Filmes Pixar -----------------------------------------------------------------------------------------------------------------------------
+# Introdução sobre o Pacote da Pixar Filmes ------------------------------------------------------------------------------------------------
 
 ### O pacote pixarfilms apresenta algumas bases de dados com informações sobre 
 ### filmes da Pixar. Todas as bases foram traduzidas e disponibilizadas no 
